@@ -1,6 +1,5 @@
 # Mobile Phone Evolution Slideshow
 
-## Overview
 [Source Code Reference](https://www.youtube.com/watch?v=hfGz5AgHT-E&list=PLe28tn1x4EIZE0Rp8xakXrvPY7m63_6Oc&index=4)
 
 This project aims to create an interactive slideshow that showcases the evolution of mobile phones from their inception to 2024. The goal is to provide an engaging educational tool for children and anyone interested in understanding how mobile technology has progressed over the years.
