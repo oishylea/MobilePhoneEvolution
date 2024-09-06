@@ -1,3 +1,5 @@
+<p align="center"><img src="repoImages/header.jpg" alt="Firebase Main Page" width="80%" /></p>
+
 # Mobile Phone Evolution Slideshow
 
 [Source Code Reference](https://www.youtube.com/watch?v=hfGz5AgHT-E&list=PLe28tn1x4EIZE0Rp8xakXrvPY7m63_6Oc&index=4)
