@@ -1,10 +1,6 @@
 <p align="center"><img src="repoImages/header.jpg" alt="Firebase Main Page" width="80%" /></p>
 
 # Mobile Phone Evolution Slideshow
-
-[Source Code Reference 1](https://www.youtube.com/watch?v=hfGz5AgHT-E&list=PLe28tn1x4EIZE0Rp8xakXrvPY7m63_6Oc&index=4)<br>
-[Source Code Reference 2](https://www.youtube.com/watch?v=nRB49gj6sVA&t=114s)<br>
-
 This project aims to create an interactive slideshow that showcases the evolution of mobile phones from their inception to 2024. The goal is to provide an engaging educational tool for children and anyone interested in understanding how mobile technology has progressed over the years.
 
 ## Problem Definition
@@ -42,3 +38,8 @@ The project aims to educate younger generations about the evolution of mobile ph
 - **Content Updates**: Periodically add new phone models or update existing ones as technology evolves.
 - **Feedback Mechanism**: Implement a way for users to provide feedback on the slideshow experience.
 - **Bug Fixes**: Address any reported issues promptly to ensure a smooth user experience.
+
+## Idea References
+[Evolution of the mobile phone](https://www.tigermobiles.com/evolution/#firstPhone)<br>
+[Source Code Reference 1](https://www.youtube.com/watch?v=hfGz5AgHT-E&list=PLe28tn1x4EIZE0Rp8xakXrvPY7m63_6Oc&index=4)<br>
+[Source Code Reference 2](https://www.youtube.com/watch?v=nRB49gj6sVA&t=114s)<br>
