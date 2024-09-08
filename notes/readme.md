@@ -1,5 +1,7 @@
 ## Evolution of Mobile Phones: 1876 to 2024
 
+[Google Docs Note](https://docs.google.com/document/d/1TbsAbOzcKsio9bdn6HHm26tygtI18BpRHsYstCl2E1o/edit?usp=sharing)<br>
+
 1876 - Invention of the Telephone
 Alexander Graham Bell invents the first practical telephone, marking the beginning of voice communication technology.
 
