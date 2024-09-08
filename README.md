@@ -18,7 +18,9 @@ The project aims to educate younger generations about the evolution of mobile ph
   - **Phone Name**: The model name is prominently displayed.
   - **Features**: Key features of the phone are succinctly listed.
   - **Description**: A brief overview of the phone’s significance in mobile history.
-- **Navigation Controls**: Simple buttons to move forward and backward through the slideshow.
+  - **Navigation Controls**: Simple buttons to move forward and backward through the slideshow.
+  - **Video Demonstration**: How people use.
+
 
 ## Coding
 - **Technologies Used**: 
