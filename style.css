@@ -50,12 +50,17 @@ header nav a{
 }
 
 .itemlist {
-    width: 100vw;       /* Full width of the viewport */
-    height: 200px;
-    border: 5px outset #5559;
-    background-color: rgb(238, 238, 238);
-    text-align: center;
-  }
+    width: 90vw;                   /* Full width of the viewport */
+    height: 200px;                 /* Fixed height */
+    border: 5px outset #5559;     /* Border style */
+    background-color: rgb(238, 238, 238); /* Background color */
+    display: flex;                 /* Enable Flexbox */
+    justify-content: center;       /* Center horizontally */
+    align-items: center;           /* Center vertically */
+    text-align: center;            /* Center text */
+    margin: 0 auto;                /* Center the itemlist horizontally */
+
+}
 .logo {
     font-weight: bold;
     text-decoration: none; /* Remove underline */
