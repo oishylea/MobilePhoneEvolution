@@ -51,16 +51,49 @@ header nav a{
 
 .itemlist {
     width: 90vw;                   /* Full width of the viewport */
-    height: 200px;                 /* Fixed height */
     border: 5px outset #5559;     /* Border style */
     background-color: rgb(238, 238, 238); /* Background color */
     display: flex;                 /* Enable Flexbox */
     justify-content: center;       /* Center horizontally */
-    align-items: center;           /* Center vertically */
+    align-items: flex-start;       /* Align items to the start */
     text-align: center;            /* Center text */
     margin: 0 auto;                /* Center the itemlist horizontally */
-
+    padding: 10px;                 /* Optional padding for spacing */
 }
+
+.centered {
+    display: flex;                /* Enable Flexbox */
+    justify-content: center;      /* Center the columns */
+    max-width: 90vw;            /* Maximum width of the container */
+    margin: 0 auto;              /* Center the container horizontally */
+}
+
+.responsive-image {
+    max-width: 100%;             /* Ensure the image does not overflow the column */
+    height: auto;                /* Maintain aspect ratio */
+    display: block;              /* Remove any inline spacing */
+}
+
+.column {
+    padding: 5px;              /* Padding inside the columns */
+}
+
+.column1 {
+    width: 30vw;  
+    display: flex;              /* Enable Flexbox */
+    flex-direction: column;     /* Stack children vertically */
+    align-items: center;        /* Center items horizontally */
+    justify-content: center;     /* Center items vertically (if there's extra height) */
+    text-align: center;                /* Fixed width for column 1 */
+}
+
+.column2 {
+    width: 70vw;
+    display: flex;              /* Enable Flexbox */
+    flex-direction: column;     /* Stack children vertically */
+    align-items: center;        /* Center items horizontally */
+    justify-content: center;     /* Center items vertically (if there's extra height) */
+    text-align: center;   }
 .logo {
     font-weight: bold;
     text-decoration: none; /* Remove underline */
