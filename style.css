@@ -48,6 +48,14 @@ header nav a{
     color: #555;
     font-weight: 500;
 }
+
+.itemlist {
+    width: 100vw;       /* Full width of the viewport */
+    height: 200px;
+    border: 5px outset #5559;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+  }
 .logo {
     font-weight: bold;
     text-decoration: none; /* Remove underline */
