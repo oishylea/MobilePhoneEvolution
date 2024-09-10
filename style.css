@@ -48,6 +48,24 @@ header nav a{
     color: #555;
     font-weight: 500;
 }
+.logo {
+    font-weight: bold;
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Use the parent's text color */
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #555;
+    margin-left: 20px;
+    position: relative; /* Ensure stacking context */
+    z-index: 10; /* Bring it to the front */
+}
 
 /* carousel */
 .carousel{
@@ -86,6 +104,20 @@ header nav a{
     top: 50%;
     transform: translateY(-50%);
     transition: right 1.5s;
+}
+.carousel {
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel .list {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.carousel .item {
+    min-width: 100%; /* Make sure each item takes full width */
+    transition: opacity 0.5s;
 }
 
 .carousel .list .item .introduce{
