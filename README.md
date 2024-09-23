@@ -1,7 +1,9 @@
 <p align="center"><img src="repoImages/header.jpg" alt="Firebase Main Page" width="80%" /></p>
 
 # Mobile Phone Evolution Slideshow
-This project aims to create an interactive slideshow that showcases the evolution of mobile phones from their inception to 2024. The goal is to provide an engaging educational tool for children and anyone interested in understanding how mobile technology has progressed over the years.
+This project aims to create an interactive slideshow that showcases the evolution of mobile phones. The goal is to provide an engaging educational tool for children and anyone interested in understanding how mobile technology has progressed over the years.
+
+[Link to live demo](https://oishylea.github.io/MobilePhoneEvolution/)
 
 ## Problem Definition
 The project aims to educate younger generations about the evolution of mobile phones through an interactive slideshow. By showcasing various mobile phones from different eras, users can appreciate the technological advancements and design changes over time. This is particularly important as many younger individuals have never experienced older phone models, such as flip phones with keypads.
