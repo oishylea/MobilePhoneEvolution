@@ -1,6 +1,6 @@
 <p align="center"><img src="repoImages/header.jpg" alt="Firebase Main Page" width="80%" /></p>
 
-# Mobile Phone Evolution Slideshow
+# Mobile Phone Evolution Slideshow📱
 This project aims to create an interactive slideshow that showcases the evolution of mobile phones. The goal is to provide an engaging educational tool for children and anyone interested in understanding how mobile technology has progressed over the years.
 
 [Link to live demo](https://oishylea.github.io/MobilePhoneEvolution/)
